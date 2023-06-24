@@ -1,0 +1,8 @@
+.cards {
+  padding: 0;
+  display: flex;
+  flex-flow: row wrap;
+  width: 920px;
+  z-index: 1;
+  column-gap: 100px;
+}

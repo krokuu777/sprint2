@@ -8,4 +8,9 @@
   line-height: 51px;
   font-weight: normal;
   z-index: 1;
+  transition: opacity 0.4s ease-in-out;
+}
+
+.feynman__link:hover {
+  opacity: 0.4;
 }
